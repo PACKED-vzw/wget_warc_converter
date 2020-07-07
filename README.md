@@ -9,12 +9,12 @@
 
 Base command:
 
-```console
-python3 wget_warc_converter.py -i $input_warc -o $output_warc
+```shell
+python3 wget_warc_converter.py --input $input_warc --output $output_warc
 ```
 
 For example
 
-```console
-python3 wget_warc_converter.py -i /Users/nastasia/Desktop/wget-warc.warc.gz -o /Users/nastasia/Desktop/converted-warc.gz
+```shell
+python3 wget_warc_converter.py --input /Users/nastasia/Desktop/wget-warc.warc.gz --output /Users/nastasia/Desktop/converted-warc.gz
 ```
