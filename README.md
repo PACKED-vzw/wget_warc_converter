@@ -1,6 +1,6 @@
 # wget_warc_converter
 
-This script takes a WARC file and will create a copy in which all the angle brackets that are surrounding the URL in the `WARC-Target-URI` headers are removed. 
+This script takes a WARC file and makes a copy of it, removing all angle brackets surrounding the URL in the `WARC-Target-URI` headers.
 
 ## Requirements
 
