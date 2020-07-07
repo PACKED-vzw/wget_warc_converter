@@ -16,5 +16,5 @@ python3 wget_warc_converter.py --input $input_warc --output $output_warc
 For example
 
 ```shell
-python3 wget_warc_converter.py --input /Users/nastasia/Desktop/wget-warc.warc.gz --output /Users/nastasia/Desktop/converted-warc.gz
+python3 wget_warc_converter.py --input /Users/nvanderperren/Desktop/wget-warc.warc.gz --output /Users/nvanderperren/Desktop/converted-warc.gz
 ```
